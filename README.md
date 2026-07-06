@@ -47,7 +47,6 @@ A production-style food delivery backend built with a microservices architecture
 | **Notification Service** | Consumes Kafka events; sends email notifications via Gmail SMTP | [notification-service](https://github.com/Priyadharshanip/quickbite-notification-service) |
 | **Eureka Discovery Server** | Service registry; enables dynamic service discovery | [eureka-server](https://github.com/Priyadharshanip/quickbite-eureka-server) |
 
-> ⚠️ Update the repo links above to match your actual GitHub repository URLs.
 
 ---
 
